@@ -107,7 +107,8 @@ nav a:hover {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: 0 24px;
+    margin: 0px 24px;
+    padding: 20px;
 }
 
 .CTA {
